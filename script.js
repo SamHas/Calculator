@@ -209,7 +209,7 @@ function main() {
 
     buttons,
 
-    expressions: ['5', '+', '7', '-', '45', '+', '3', '+', '177'],
+    expressions: ['1', '+', '3', '-', '5', '+', '9', '+', '17' , '='],
 
     currentOperand: '147',
 
@@ -221,7 +221,7 @@ function main() {
 
     error: null,
 
-    total: 147 };
+    total: 25 };
 
 
 
