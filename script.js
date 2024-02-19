@@ -211,7 +211,7 @@ function main() {
 
     expressions: ['1', '+', '3', '-', '5', '+', '9', '+', '17' , '='],
 
-    currentOperand: '147',
+    currentOperand: '25',
 
     currentOperator: '-',
 
