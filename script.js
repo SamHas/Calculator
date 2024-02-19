@@ -209,7 +209,7 @@ function main() {
 
     buttons,
 
-    expressions: ['5', '+', '7', '-', '45', '+', '3', '+', '177', '-'],
+    expressions: ['5', '+', '7', '-', '45', '+', '3', '+', '177'],
 
     currentOperand: '147',
 
